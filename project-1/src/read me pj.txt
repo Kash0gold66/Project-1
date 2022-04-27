@@ -1,0 +1,5 @@
+###########Design pattern##############
+
+1)Markup
+2)style
+3)functionality
